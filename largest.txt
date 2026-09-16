@@ -1,0 +1,5 @@
+13M	/home/rer7ay/.config
+13M	/home/rer7ay
+3.0K	/home/rer7ay/ondemand
+1.0K	/home/rer7ay/.ood_ssh
+512	/home/rer7ay/.ssh
