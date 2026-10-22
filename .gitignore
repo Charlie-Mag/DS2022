@@ -1,7 +1,6 @@
-# Course materials: folder shells on GitHub, contents stay local
-class/bundles/
-class/s3-storage/
-class/04-sql/fastapi-rds/
+class/06-s3/data/
+class/06-s3/data/
+>>>>>>> upstream/main
 demos/04-sql/create_dbs.sql
 demos/04-sql/drop_tables.sql
 !class/README.md
@@ -14,6 +13,12 @@ images/labs/
 people/nem2p/
 
 .DS_Store
+
+# AWS credentials and SSH keys (Learner Lab)
+credentials
+.aws/
+*.pem
+*.ppk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
